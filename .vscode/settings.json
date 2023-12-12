@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Andromeda",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDelete": false,
+    
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [0],
+      "editor.selectionHighlight": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": "off",
+      "editor.formatOnPaste": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "terminal.integrated.tabFocusMode": false,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "never",
+    "extensions.ignoreRecommendations": true,
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "terminal.integrated.env.windows": {},
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+      "*.sqlite3": "sqlite3-editor.editor"
+    },
+    "chatgpt.lang": "en",
+    "editor.accessibilitySupport": "off",
+    "cmake.configureOnOpen": false,
+  }
